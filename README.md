@@ -48,9 +48,7 @@ export default tseslint.config({
   },
 })
 ```
-# Project Title
 
-A brief description of what the project does and its purpose.
 
 ## Table of Contents
 
@@ -64,16 +62,14 @@ A brief description of what the project does and its purpose.
 
 ## Features
 
-- List of key features
-- Highlight any special functionality
+-TRACK both Bitcoin and Ehereum prices
 - User-friendly interface
 
 ## Technologies Used
 
 - **Frontend**: React, Tailwind CSS, etc.
 - **Backend**: Node.js, Express, etc.
-- **Database**: MongoDB, SQLite, etc.
-- Any other libraries or frameworks
+
 
 ## Installation
 
